@@ -2,7 +2,7 @@
 
 **Cédric KAN** — Île-de-France
 Profil en reconversion vers la cybersécurité, orientation GRC.
-Master 2 réseaux et systèmes (RNCP niveau 7) — environ cinq années d'expérience en datacenter et télécom.
+Master 2 réseaux et systèmes (RNCP niveau 7) — environ trois années d'expérience en datacenter et télécom.
 
 [Profil LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-kan-470531206/)
 
